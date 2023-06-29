@@ -11,9 +11,10 @@
 ## Installation process
 1. #### clone the repo using this command
     ```bash
-    git clone https://github.com/Ni2-1911/E-mart.git
-    ```
+    git clone https://github.com/Riteshiitism/TodoList.git
+
 2. #### install npm packages
+    ```bash
     1. npm init
     2. npm i express
     3. npm i body-parser
